@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 二三小青年
+subtitle: 'by big_tail'
+description: '二三的个人空间，记录二三的生活及学习历程~'
+keywords: 二三,生活,学习,空间
+author: Big Tail
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.chenmingyu.plus/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
